@@ -1,9 +1,9 @@
-# YFCMF 企业系统
+# OPEACMS
 
-轻量级企业网站管理系统
+轻量级网站管理系统
 
 ## 环境要求:
-* PHP >= 5.4.0(注意：PHP5.4dev版本和PHP6均不支持)
+* PHP >= 5.5.0
 * PDO PHP Extension
 * MBstring PHP Extension
 * CURL PHP Extension
